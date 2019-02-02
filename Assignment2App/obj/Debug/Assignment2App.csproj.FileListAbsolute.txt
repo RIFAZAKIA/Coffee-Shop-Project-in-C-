@@ -1,0 +1,10 @@
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\bin\Debug\Assignment2App.exe.config
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\bin\Debug\Assignment2App.exe
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\bin\Debug\Assignment2App.pdb
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.csprojAssemblyReference.cache
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.CoffeeShopUi.resources
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.Properties.Resources.resources
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.csproj.GenerateResource.cache
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.csproj.CoreCompileInputs.cache
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.exe
+F:\day1 practise c# course\assignment2\c# assignment2(project coffee shop)\Assignment2App\Assignment2App\obj\Debug\Assignment2App.pdb
